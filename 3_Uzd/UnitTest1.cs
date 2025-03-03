@@ -8,7 +8,7 @@ namespace _3_Uzd
     {
         private IWebDriver _driver;
         private IJavaScriptExecutor _js;
-        private readonly string email = "cernovas13@mail.com";
+        private readonly string email = "cernovas14@mail.com";
         private readonly string password = "cernovas1";
         
         [SetUp]
