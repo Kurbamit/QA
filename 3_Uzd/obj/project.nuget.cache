@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "7qYgQK67eqjqykI88uQ+3tF1P0snxm37tvYFi2gFqOO6FGRGVRfRS9syOLWXeiTLBQPT/PXcWaVCEM4xgK8D3A==",
+  "success": true,
+  "projectFilePath": "/Users/dominykas.cernovas/Documents/Vilnius University/3 year/Programų sistemų testavimas/1 Dalis/3_Uzd/3_Uzd/3_Uzd.csproj",
+  "expectedPackageFiles": [
+    "/Users/dominykas.cernovas/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/Users/dominykas.cernovas/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "/Users/dominykas.cernovas/.nuget/packages/microsoft.net.test.sdk/17.6.0/microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "/Users/dominykas.cernovas/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/dominykas.cernovas/.nuget/packages/microsoft.testplatform.objectmodel/17.6.0/microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "/Users/dominykas.cernovas/.nuget/packages/microsoft.testplatform.testhost/17.6.0/microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "/Users/dominykas.cernovas/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/dominykas.cernovas/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/dominykas.cernovas/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/dominykas.cernovas/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/dominykas.cernovas/.nuget/packages/nunit.analyzers/3.6.1/nunit.analyzers.3.6.1.nupkg.sha512",
+    "/Users/dominykas.cernovas/.nuget/packages/nunit3testadapter/4.2.1/nunit3testadapter.4.2.1.nupkg.sha512",
+    "/Users/dominykas.cernovas/.nuget/packages/selenium.support/4.29.0/selenium.support.4.29.0.nupkg.sha512",
+    "/Users/dominykas.cernovas/.nuget/packages/selenium.webdriver/4.29.0/selenium.webdriver.4.29.0.nupkg.sha512",
+    "/Users/dominykas.cernovas/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
